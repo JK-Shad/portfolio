@@ -1,0 +1,40 @@
+/*Navbar */
+.navbar-brand{
+    margin-right: 60% !important;
+}
+body{
+   background-color:grey !important;
+   font-family: 'Fredoka One', cursive;
+ 
+}
+
+.perso_bgBlack{
+    background-color: rgb(12, 11, 11)
+}
+
+nav a{
+    color: white;
+    font-size: 20px;
+}
+
+nav a:hover{
+    color: goldenrod !important;
+}
+
+/*Carousel */
+.carousel-control-prev, 
+.carousel-control-nex{
+  opacity: 0;
+}
+
+.myimg{
+    width:100%;
+    height: 65vh;
+}
+
+/*Réalisation*/
+.col-md-4{
+    width: 80%;
+    margin: auto;
+}
+
